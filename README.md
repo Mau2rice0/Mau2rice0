@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maurice 👋
 
-<!--
-**Mau2rice0/Mau2rice0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Engineer Microsoft @ Storck**  
+Focused on **Intune**, **Defender**, and automation to simplify and standardize endpoint management.
 
-Here are some ideas to get you started:
+### 🔧 What I work on
+- Intune automation & compliance tooling  
+- Microsoft Defender configuration & monitoring  
+- PowerShell scripting  
+- Azure Automation runbooks  
+- Standardization of enterprise device management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+[**intune-ios-minimum-version-automation**](https://github.com/DEINUSERNAME/intune-ios-minimum-version-automation)  
+Automatically updates the minimum required iOS version in Intune compliance policies.
+
+### 📫 Contact
+**ask-maurice@mo-cloud.de**  
+
