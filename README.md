@@ -11,7 +11,7 @@ Focused on **Intune**, **Defender**, and automation to simplify and standardize 
 - Standardization of enterprise device management
 
 ### 🚀 Featured Project
-[**intune-ios-minimum-version-automation**](https://github.com/DEINUSERNAME/intune-ios-minimum-version-automation)  
+[**intune-ios-minimum-version-automation**](https://github.com/Mau2rice0/intune-ios-minimum-version-automation)  
 Automatically updates the minimum required iOS version in Intune compliance policies.
 
 ### 📫 Contact
