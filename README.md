@@ -11,6 +11,10 @@ Focused on **Intune**, **Defender**, and automation to simplify and standardize 
 - Standardization of enterprise device management
 
 ### 🚀 Featured Project
+
+In meinem Repository **World-of-M365** findest du all meine Projekte, sauber nach Kategorien sortiert:  
+🔗 https://github.com/Mau2rice0/World-of-M365
+
 [**intune-ios-minimum-version-automation**](https://github.com/Mau2rice0/intune-ios-minimum-version-automation)  
 Automatically updates the minimum required iOS version in Intune compliance policies.
 
