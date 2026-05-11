@@ -12,7 +12,7 @@ Focused on **Intune**, **Defender**, and automation to simplify and standardize 
 
 ### 🚀 Featured Project
 
-In meinem Repository **World-of-M365** findest du all meine Projekte, sauber nach Kategorien sortiert:  
+In my repository **World‑of‑M365** you’ll find all my projects, neatly organized by category:
 🔗 https://github.com/Mau2rice0/World-of-M365
 
 [**intune-ios-minimum-version-automation**](https://github.com/Mau2rice0/intune-ios-minimum-version-automation)  
